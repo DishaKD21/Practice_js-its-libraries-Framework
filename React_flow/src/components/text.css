@@ -1,0 +1,21 @@
+.text-updater-node {
+    min-width: 150px;
+    min-height: 80px;
+    border: 2px solid #333;
+    border-radius: 6px;
+    padding: 10px;
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.editable-text {
+    outline: none;
+    border: none;
+    background: transparent;
+    width: 100%;
+    text-align: center;
+    word-break: break-word;
+    font-size: 14px;
+}
